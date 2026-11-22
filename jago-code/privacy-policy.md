@@ -3,8 +3,8 @@
 *Privacy Policy for Jago Code* — [English version below](#privacy-policy-jago-code)
 
 **Berlaku sejak:** 22 November 2026
-**Pengembang:** [NAMA PENGEMBANG]
-**Kontak:** [EMAIL KONTAK]
+**Pengembang:** SUTRIADI WEB
+**Kontak:** support-jago-code@sutriadi.com
 **Aplikasi:** Jago Code / Jago Kode (`com.sutriadi.texteditor`)
 
 ## Ringkasan
@@ -114,4 +114,4 @@ If the app changes in a way that affects privacy (for example, adding internet a
 
 ## Contact
 
-Questions about this policy: [CONTACT EMAIL].
+Questions about this policy: support-jago-code@sutriadi.com.

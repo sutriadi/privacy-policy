@@ -55,15 +55,15 @@ Jika fungsi aplikasi berubah sehingga memengaruhi privasi (misalnya menambah aks
 
 ## Kontak
 
-Pertanyaan tentang kebijakan ini: [EMAIL KONTAK].
+Pertanyaan tentang kebijakan ini: support-jago-code@sutriadi.com.
 
 ---
 
 # Privacy Policy: Jago Code
 
 **Effective date:** 22 November 2026
-**Developer:** [DEVELOPER NAME]
-**Contact:** [CONTACT EMAIL]
+**Developer:** SUTRIADI WEB
+**Contact:** support-jago-code@sutriadi.com
 **App:** Jago Code / Jago Kode (`com.sutriadi.texteditor`)
 
 ## Summary

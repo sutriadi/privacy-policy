@@ -4,7 +4,7 @@
 
 **Berlaku sejak:** 1 November 2026
 **Pengembang:** SUTRIADI WEB
-**Kontak:** support-jago-database@sutriadi.com
+**Kontak:** support-jago-db@sutriadi.com
 **Aplikasi:** Jago Basisdata / Jago Database (`com.sutriadi.dbmaestro`)
 
 ## Ringkasan
@@ -62,7 +62,7 @@ Jika fungsi aplikasi berubah sehingga memengaruhi privasi, kebijakan ini akan di
 
 ## Kontak
 
-Pertanyaan tentang kebijakan ini: support-jago-database@sutriadi.com.
+Pertanyaan tentang kebijakan ini: support-jago-db@sutriadi.com.
 
 ---
 
@@ -70,7 +70,7 @@ Pertanyaan tentang kebijakan ini: support-jago-database@sutriadi.com.
 
 **Effective date:** 1 November 2026
 **Developer:** SUTRIADI WEB
-**Contact:** support-jago-database@sutriadi.com
+**Contact:** support-jago-db@sutriadi.com
 **App:** Jago Basisdata / Jago Database (`com.sutriadi.dbmaestro`)
 
 ## Summary

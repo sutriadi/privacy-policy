@@ -1,0 +1,103 @@
+# Kebijakan Privasi Si Kantor: Tayang
+
+*Privacy Policy for Si Kantor: Tayang* — [English version below](#privacy-policy-si-kantor-tayang)
+
+**Berlaku sejak:** 22 November 2026
+**Pengembang:** SUTRIADI WEB
+**Kontak:** [github.com/sutriadi/deckcraft/issues](https://github.com/sutriadi/deckcraft/issues)
+**Aplikasi:** Si Kantor: Tayang (`com.sutriadi.deckcraft`; label layar utama "Tayang")
+
+## Ringkasan
+
+Si Kantor: Tayang untuk Android tidak mengumpulkan, mengirim, menjual, atau membagikan data pribadi Anda. Tidak ada akun, analitik, iklan, atau pelaporan crash, dan aplikasi ini tidak meminta izin Internet Android.
+
+## Apa yang dilakukan aplikasi dengan berkas Anda
+
+- Anda membuka dan menyimpan presentation lewat pemilih berkas sistem Android. Aplikasi hanya bisa membaca berkas yang Anda pilih dan menulis ke lokasi yang Anda pilih.
+- Presentasi Anda tetap berada di perangkat. Si Kantor: Tayang tidak mengunggahnya ke mana pun.
+- Untuk meneruskan berkas yang dipilih antara Android dan aplikasi, Si Kantor: Tayang menyimpan salinan sementara di penyimpanan privatnya sendiri, yang tidak bisa dibaca aplikasi lain. Salinan sementara itu dihapus setelah berkas dibuka atau disimpan.
+- Aplikasi juga dapat menyimpan pengaturan dan data pemulihan sementara di penyimpanan privatnya agar pekerjaan Anda bisa dipulihkan. Data ini tetap di perangkat dan dihapus saat Anda mencopot aplikasi. Aplikasi mematikan pencadangan otomatis Android, sehingga data ini tidak disalin ke akun Google Anda oleh aplikasi.
+
+## Data yang kami kumpulkan
+
+Tidak ada. Pengembang tidak menerima informasi apa pun dari aplikasi: tidak nama, email, lokasi, pengenal perangkat, data penggunaan, maupun isi presentation.
+
+## Akses jaringan
+
+Versi aplikasi ini tidak meminta izin Internet Android sehingga tidak dapat mengirim data lewat jaringan.
+
+## Tautan
+
+Jika Anda mengetuk tautan web di dalam presentation atau di dalam aplikasi, Android dapat membukanya di peramban atau aplikasi lain. Aplikasi dan situs tersebut memiliki kebijakan privasinya sendiri.
+
+## Anak-anak
+
+Aplikasi ini adalah pembuat presentasi untuk umum dan tidak ditujukan bagi anak-anak. Karena tidak mengumpulkan data, aplikasi ini juga tidak mengumpulkan data dari anak-anak.
+
+## Pihak ketiga
+
+Aplikasi tidak memuat layanan iklan atau analitik pihak ketiga. Si Kantor: Tayang adalah perangkat lunak open source berdasarkan DeckCraft oleh tim ArtCraft. Kode sumbernya, termasuk port Android ini, dapat diperiksa di GitHub. Google Play dan perangkat Anda dapat mengumpulkan data menurut kebijakan Google sendiri, yang tidak tercakup dalam kebijakan ini.
+
+## Pilihan Anda
+
+Karena aplikasi tidak menyimpan data tentang Anda di server mana pun, tidak ada yang perlu diminta atau dihapus dari pengembang. Anda dapat menghapus presentation lewat pengelola berkas, dan menghapus seluruh data aplikasi dengan mencopot aplikasi.
+
+## Perubahan kebijakan
+
+Jika versi mendatang menambahkan fitur yang memakai jaringan atau mengumpulkan data, kebijakan ini akan diperbarui sebelum versi itu dirilis. Tanggal di bagian atas menunjukkan kapan terakhir diubah.
+
+## Kontak
+
+Pertanyaan atau kekhawatiran: buka isu di [github.com/sutriadi/deckcraft/issues](https://github.com/sutriadi/deckcraft/issues).
+
+---
+
+# Privacy Policy: Si Kantor: Tayang
+
+**Effective date:** 22 November 2026
+**Developer:** SUTRIADI WEB
+**Contact:** [github.com/sutriadi/deckcraft/issues](https://github.com/sutriadi/deckcraft/issues)
+**App:** Si Kantor: Tayang (`com.sutriadi.deckcraft`; home-screen label "Tayang")
+
+## Summary
+
+Si Kantor: Tayang for Android does not collect, transmit, sell or share your personal data. It has no accounts, no analytics, no advertising and no crash reporting, and it does not request the Android Internet permission.
+
+## What the app does with your files
+
+- You open and save presentations through Android's system file picker. The app can only read the files you choose and write to the places you choose.
+- Your presentations stay on your device. Si Kantor: Tayang does not upload them anywhere.
+- To pass a chosen file between Android and the app, Si Kantor: Tayang briefly keeps a copy in its own private storage, which other apps cannot read. These temporary copies are deleted once the file has been opened or saved.
+- The app may also keep settings and temporary recovery data in its private storage so it can restore your work. This data stays on your device and is removed when you uninstall the app. The app turns off Android's automatic cloud backup, so this data is not copied to your Google account by the app.
+
+## Data we collect
+
+None. The developer does not receive any information from the app: no name, email, location, device identifiers, usage data or presentation content.
+
+## Network access
+
+This version of the app does not request the Android Internet permission and therefore cannot send data over the network.
+
+## Links
+
+If you tap a web link inside a presentation or inside the app, Android may open it in your browser or another app. Those apps and websites have their own privacy policies.
+
+## Children
+
+The app is a general-purpose presentation maker and is not directed at children. Because it collects no data, it collects none from children either.
+
+## Third parties
+
+The app contains no third-party advertising or analytics services. Si Kantor: Tayang is open-source software based on DeckCraft by the ArtCraft team. Its source code, including this Android port, can be inspected on GitHub. Google Play and your device may collect data under Google's own policies, which this policy does not cover.
+
+## Your choices
+
+Because the app holds no data about you on any server, there is nothing to request or delete from the developer. You can delete your presentations with your file manager, and remove all app data by uninstalling the app.
+
+## Changes to this policy
+
+If a future version adds features that use the network or collect data, this policy will be updated before that version is released. The date at the top shows when it last changed.
+
+## Contact
+
+Questions or concerns: open an issue at [github.com/sutriadi/deckcraft/issues](https://github.com/sutriadi/deckcraft/issues).

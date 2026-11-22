@@ -4,7 +4,7 @@
 
 **Berlaku sejak:** 22 November 2026
 **Pengembang:** SUTRIADI WEB
-**Kontak:** [github.com/sutriadi/gridcraft/issues](https://github.com/sutriadi/gridcraft/issues)
+**Kontak:** support-lembar@sutriadi.com
 **Aplikasi:** Si Kantor: Lembar (`com.sutriadi.gridcraft`; label layar utama "Lembar")
 
 ## Ringkasan
@@ -48,7 +48,7 @@ Jika versi mendatang menambahkan fitur yang memakai jaringan atau mengumpulkan d
 
 ## Kontak
 
-Pertanyaan atau kekhawatiran: buka isu di [github.com/sutriadi/gridcraft/issues](https://github.com/sutriadi/gridcraft/issues).
+Pertanyaan tentang kebijakan ini: support-lembar@sutriadi.com. Untuk melaporkan masalah pada aplikasi, buka isu di [github.com/sutriadi/gridcraft/issues](https://github.com/sutriadi/gridcraft/issues).
 
 ---
 
@@ -56,7 +56,7 @@ Pertanyaan atau kekhawatiran: buka isu di [github.com/sutriadi/gridcraft/issues]
 
 **Effective date:** 22 November 2026
 **Developer:** SUTRIADI WEB
-**Contact:** [github.com/sutriadi/gridcraft/issues](https://github.com/sutriadi/gridcraft/issues)
+**Contact:** support-lembar@sutriadi.com
 **App:** Si Kantor: Lembar (`com.sutriadi.gridcraft`; home-screen label "Lembar")
 
 ## Summary
@@ -100,4 +100,4 @@ If a future version adds features that use the network or collect data, this pol
 
 ## Contact
 
-Questions or concerns: open an issue at [github.com/sutriadi/gridcraft/issues](https://github.com/sutriadi/gridcraft/issues).
+Questions about this policy: support-lembar@sutriadi.com. To report a problem with the app, open an issue at [github.com/sutriadi/gridcraft/issues](https://github.com/sutriadi/gridcraft/issues).

@@ -4,7 +4,7 @@
 
 **Berlaku sejak:** 22 November 2026
 **Pengembang:** SUTRIADI WEB
-**Kontak:** [github.com/sutriadi/deckcraft/issues](https://github.com/sutriadi/deckcraft/issues)
+**Kontak:** support-tayang@sutriadi.com
 **Aplikasi:** Si Kantor: Tayang (`com.sutriadi.deckcraft`; label layar utama "Tayang")
 
 ## Ringkasan
@@ -48,7 +48,7 @@ Jika versi mendatang menambahkan fitur yang memakai jaringan atau mengumpulkan d
 
 ## Kontak
 
-Pertanyaan atau kekhawatiran: buka isu di [github.com/sutriadi/deckcraft/issues](https://github.com/sutriadi/deckcraft/issues).
+Pertanyaan tentang kebijakan ini: support-tayang@sutriadi.com. Untuk melaporkan masalah pada aplikasi, buka isu di [github.com/sutriadi/deckcraft/issues](https://github.com/sutriadi/deckcraft/issues).
 
 ---
 
@@ -56,7 +56,7 @@ Pertanyaan atau kekhawatiran: buka isu di [github.com/sutriadi/deckcraft/issues]
 
 **Effective date:** 22 November 2026
 **Developer:** SUTRIADI WEB
-**Contact:** [github.com/sutriadi/deckcraft/issues](https://github.com/sutriadi/deckcraft/issues)
+**Contact:** support-tayang@sutriadi.com
 **App:** Si Kantor: Tayang (`com.sutriadi.deckcraft`; home-screen label "Tayang")
 
 ## Summary
@@ -100,4 +100,4 @@ If a future version adds features that use the network or collect data, this pol
 
 ## Contact
 
-Questions or concerns: open an issue at [github.com/sutriadi/deckcraft/issues](https://github.com/sutriadi/deckcraft/issues).
+Questions about this policy: support-tayang@sutriadi.com. To report a problem with the app, open an issue at [github.com/sutriadi/deckcraft/issues](https://github.com/sutriadi/deckcraft/issues).

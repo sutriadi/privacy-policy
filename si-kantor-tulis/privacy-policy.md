@@ -4,7 +4,7 @@
 
 **Berlaku sejak:** 22 November 2026
 **Pengembang:** SUTRIADI WEB
-**Kontak:** [github.com/sutriadi/wordcraft/issues](https://github.com/sutriadi/wordcraft/issues)
+**Kontak:** support-tulis@sutriadi.com
 **Aplikasi:** Si Kantor: Tulis (`com.sutriadi.wordcraft`; label layar utama "Tulis")
 
 ## Ringkasan
@@ -48,7 +48,7 @@ Jika versi mendatang menambahkan fitur yang memakai jaringan atau mengumpulkan d
 
 ## Kontak
 
-Pertanyaan atau kekhawatiran: buka isu di [github.com/sutriadi/wordcraft/issues](https://github.com/sutriadi/wordcraft/issues).
+Pertanyaan tentang kebijakan ini: support-tulis@sutriadi.com. Untuk melaporkan masalah pada aplikasi, buka isu di [github.com/sutriadi/wordcraft/issues](https://github.com/sutriadi/wordcraft/issues).
 
 ---
 
@@ -56,7 +56,7 @@ Pertanyaan atau kekhawatiran: buka isu di [github.com/sutriadi/wordcraft/issues]
 
 **Effective date:** 22 November 2026
 **Developer:** SUTRIADI WEB
-**Contact:** [github.com/sutriadi/wordcraft/issues](https://github.com/sutriadi/wordcraft/issues)
+**Contact:** support-tulis@sutriadi.com
 **App:** Si Kantor: Tulis (`com.sutriadi.wordcraft`; home-screen label "Tulis")
 
 ## Summary
@@ -100,4 +100,4 @@ If a future version adds features that use the network or collect data, this pol
 
 ## Contact
 
-Questions or concerns: open an issue at [github.com/sutriadi/wordcraft/issues](https://github.com/sutriadi/wordcraft/issues).
+Questions about this policy: support-tulis@sutriadi.com. To report a problem with the app, open an issue at [github.com/sutriadi/wordcraft/issues](https://github.com/sutriadi/wordcraft/issues).
